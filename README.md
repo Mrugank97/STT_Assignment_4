@@ -51,13 +51,6 @@ This assignment consists of two parts:
 - Added functionality to change the form's background color every second
 - When the target time is reached, the color changes stop and a message box is displayed
 
-### Event-Driven Programming Concepts
-The implementation demonstrates key event-driven programming concepts:
-1. Event declaration and subscription
-2. Event triggering based on conditions
-3. Event handlers for user interactions (button clicks)
-4. Timer-based events for periodic actions
-
 ## Tools and Technologies Used
 - Visual Studio 2022 (Community Edition)
 - .NET Framework 4.7.2
