@@ -1,0 +1,18 @@
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\bin\Debug\Sliding Puzzle.exe
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\bin\Debug\Sliding Puzzle.deps.json
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\bin\Debug\Sliding Puzzle.runtimeconfig.json
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\bin\Debug\Sliding Puzzle.dll
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\bin\Debug\Sliding Puzzle.pdb
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\bin\Debug\Towel.dll
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\obj\Debug\Sliding Puzzle.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\obj\Debug\Sliding Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\obj\Debug\Sliding Puzzle.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\obj\Debug\Sliding Puzzle.AssemblyInfo.cs
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\obj\Debug\Sliding Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\obj\Debug\Sliding Puzzle.sourcelink.json
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\obj\Debug\Sliding .8FAA2184.Up2Date
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\obj\Debug\Sliding Puzzle.dll
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\obj\Debug\refint\Sliding Puzzle.dll
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\obj\Debug\Sliding Puzzle.pdb
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\obj\Debug\Sliding Puzzle.genruntimeconfig.cache
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Sliding Puzzle\obj\Debug\ref\Sliding Puzzle.dll

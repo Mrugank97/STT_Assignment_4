@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sliding Puzzle/1.0.0": {
+        "dependencies": {
+          "Towel": "1.0.40"
+        },
+        "runtime": {
+          "Sliding Puzzle.dll": {}
+        }
+      },
+      "Towel/1.0.40": {
+        "runtime": {
+          "lib/net5.0/Towel.dll": {
+            "assemblyVersion": "1.0.40.0",
+            "fileVersion": "1.0.40.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sliding Puzzle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Towel/1.0.40": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V4KnWC3Du6Mmp+W3EaOQ0Qmc5EII04L4+rRxDq0IQjr3onGdZdaK0yNE9qhhlBp8QJwy7beLBosSdYSVy8Zc+g==",
+      "path": "towel/1.0.40",
+      "hashPath": "towel.1.0.40.nupkg.sha512"
+    }
+  }
+}

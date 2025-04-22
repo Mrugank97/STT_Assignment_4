@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Snake\bin\Debug\Snake.exe
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Snake\bin\Debug\Snake.deps.json
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Snake\bin\Debug\Snake.runtimeconfig.json
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Snake\bin\Debug\Snake.dll
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Snake\bin\Debug\Snake.pdb
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Snake\obj\Debug\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Snake\obj\Debug\Snake.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Snake\obj\Debug\Snake.AssemblyInfo.cs
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Snake\obj\Debug\Snake.sourcelink.json
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Snake\obj\Debug\Snake.dll
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Snake\obj\Debug\refint\Snake.dll
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Snake\obj\Debug\Snake.pdb
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Snake\obj\Debug\Snake.genruntimeconfig.cache
+C:\Users\HP\Desktop\College_Academics\Semester_6\STT\STT_3\dotnet-console-games\Projects\Snake\obj\Debug\ref\Snake.dll

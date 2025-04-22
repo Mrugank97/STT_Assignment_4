@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\AlarmClockWinForms\obj\Debug\AlarmClockWinForms.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\AlarmClockWinForms\obj\Debug\AlarmClockWinForms.Form1.resources
+C:\Users\HP\source\repos\AlarmClockWinForms\obj\Debug\AlarmClockWinForms.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\AlarmClockWinForms\obj\Debug\AlarmClockWinForms.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AlarmClockWinForms\bin\Debug\AlarmClockWinForms.exe.config
+C:\Users\HP\source\repos\AlarmClockWinForms\bin\Debug\AlarmClockWinForms.exe
+C:\Users\HP\source\repos\AlarmClockWinForms\bin\Debug\AlarmClockWinForms.pdb
+C:\Users\HP\source\repos\AlarmClockWinForms\obj\Debug\AlarmClockWinForms.exe
+C:\Users\HP\source\repos\AlarmClockWinForms\obj\Debug\AlarmClockWinForms.pdb
